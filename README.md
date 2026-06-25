@@ -1,5 +1,7 @@
 # Global Fresh Grocery Performance Dashboard
 
+![Dashboard Preview](GF Screenshot.png)
+
 ## Project Overview
 
 Global Fresh is a simulated multinational grocery retailer operating across the United States, Canada, and Mexico. This Power BI dashboard was designed to help leadership monitor sales performance, profitability, product trends, and geographic performance across retail locations.
