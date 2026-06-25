@@ -1,6 +1,6 @@
 # Global Fresh Grocery Performance Dashboard
 
-![Dashboard Preview](GF Screenshot.png)
+![Dashboard Preview](GF_Screenshot.png)
 
 ## Project Overview
 
